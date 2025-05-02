@@ -1,2 +1,2 @@
 all:
-	gcc src/test.c src/brainrotc.c -o test1 
+	gcc test.c brainrotc.c -o test1 
